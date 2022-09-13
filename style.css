@@ -1,0 +1,57 @@
+body{
+    background-color: mediumseagreen;
+    max-width: 1023px;
+    margin: auto;
+    color: brown;
+}
+
+main{
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+#mint{
+    float: right;
+    width: 200px;
+    margin-left: 20px;
+}
+
+#baskin{
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+}
+
+div{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+section{
+    row-gap: 2;
+}
+
+h1{
+    color: brown
+}
+
+#shop{
+    float: right;
+    width: 200px;
+    margin-left: 20px;
+    margin: auto;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: brown;
+    color: white;
+}
+
